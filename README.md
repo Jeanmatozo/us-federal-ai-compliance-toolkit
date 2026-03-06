@@ -16,7 +16,4 @@
 
 Built on top of my [NIST AI RMF Mappings & Assessments repo](https://github.com/Jeanmatozo/nist-ai-rmf-assessments).
 
-**Hiring managers**: These are the exact artifacts I would deliver Day 1 at Lockheed, Booz Allen, JP Morgan, or any CMMC/SEC-regulated firm.
-
-Built by Jean Matozo — AI Security Engineer & Governance Practitioner  
-[LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) | [NIST RMF Repo](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)
+[NIST RMF Repo](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)
