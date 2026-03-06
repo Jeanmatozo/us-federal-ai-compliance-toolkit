@@ -4,8 +4,7 @@
 ![CMMC](https://img.shields.io/badge/CMMC-2.0-blue) ![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF-green) ![SEC](https://img.shields.io/badge/SEC-Disclosure-orange)
 
 **Purpose**: Ready-to-use governance artifacts that translate OWASP LLM / RAG risks into OMB M-24-10 inventories, CMMC-aligned controls, NIST AI RMF mappings, and SEC 10-K risk disclosures. Built for US GovCon contractors and public companies facing 2026 mandates and insurability requirements.
-
-**Key Value**: Scan this repo in <2 minutes and see exactly how I help reduce regulatory, audit, and cyber-insurance liability.
+(helpful repo to reduce regulatory, audit, and cyber-insurance liability).
 
 ## Contents
 - **templates/** - Federal AI Inventory (JSON schema + Markdown) + reusable artifacts
