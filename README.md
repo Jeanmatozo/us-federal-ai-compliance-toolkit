@@ -8,12 +8,12 @@
 **Key Value**: Scan this repo in <2 minutes and see exactly how I help reduce regulatory, audit, and cyber-insurance liability.
 
 ## Contents
-- **templates/** — Federal AI Inventory (JSON schema + Markdown) + reusable artifacts
-- **threat-models/** — STRIDE threat models generated via my stride-gpt fork for dual-use & rights-impacting AI
-- **cmmc-alignments/** — How AI systems map to CMMC 2.0 Level 2/3 controls (NIST 800-171 + CSA AICM)
-- **sec-disclosures/** — Fictional 10-K AI Risk Factor sections + “AI Washing” avoidance guide
-- **demos/** — Vulnerable RAG setup + hardened fixes (prompt injection mitigations)
-- **ai-washing-guide/** — Misleading vs. accurate claim examples for SEC compliance
+- **templates/** - Federal AI Inventory (JSON schema + Markdown) + reusable artifacts
+- **threat-models/** - STRIDE threat models generated via my stride-gpt fork for dual-use & rights-impacting AI
+- **cmmc-alignments/** - How AI systems map to CMMC 2.0 Level 2/3 controls (NIST 800-171 + CSA AICM)
+- **sec-disclosures/** - Fictional 10-K AI Risk Factor sections + “AI Washing” avoidance guide
+- **demos/** - Vulnerable RAG setup + hardened fixes (prompt injection mitigations)
+- **ai-washing-guide/** - Misleading vs. accurate claim examples for SEC compliance
 
 Built on top of my [NIST AI RMF Mappings & Assessments repo](https://github.com/Jeanmatozo/nist-ai-rmf-assessments).
 
