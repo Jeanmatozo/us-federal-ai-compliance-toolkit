@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Federal AI Inventory Schema (OMB M-24-10 Compliant)",
+  "properties": {
+    "inventory_date": { "type": "string", "format": "date" },
+    "systems": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "system_id": { "type": "string" },
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "impact_classification": {
+            "type": "object",
+            "properties": {
+              "rights_impacting": { "type": "boolean" },
+              "safety_impacting": { "type": "boolean" }
+            }
+          },
+          "owasp_vulns": { "type": "array", "items": { "type": "string" } },
+          "rmf_mapping": { "type": "string" },
+          "cmmc_level": { "type": "string", "enum": ["L2", "L3"] }
+        }
+      }
+    }
+  }
+}
